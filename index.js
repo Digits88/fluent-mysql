@@ -1,1 +1,1 @@
-module.exports.Db = require('./lib/db');
+module.exports = require('./lib/db');
