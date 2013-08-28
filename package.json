@@ -1,20 +1,26 @@
 {
-  "author": "Lakshmi Vyas <lakshmi.vyas@gmail.com>",
-  "name": "fluent-mysql",
-  "description": "A fluent interface to MySQL",
-  "version": "0.0.1",
-  "homepage": "http://flowplayer.org",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:flowplayer/fluent-mysql.git"
-  },
-  "engines": {
-    "node": "~v0.6.7"
-  },
-  "dependencies": {
-    "mysql": ">= 2.0.0-alpha3"
-  },
-  "devDependencies": {},
-  "optionalDependencies": {},
-  "main": "index.js"
+    "author": "Lakshmi Vyas <lakshmi.vyas@gmail.com>",
+    "contributors": [
+        {
+            "name": "Anssi Piirainen",
+            "email": "anssi@flowplayer.org"
+        }
+    ],
+    "name": "fluent-mysql",
+    "description": "A fluent interface to MySQL",
+    "version": "0.0.1",
+    "homepage": "http://flowplayer.org",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:flowplayer/fluent-mysql.git"
+    },
+    "engines": {
+        "node": "~v0.6.7"
+    },
+    "dependencies": {
+        "mysql": ">= 2.0.0-alpha3"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "main": "index.js"
 }
